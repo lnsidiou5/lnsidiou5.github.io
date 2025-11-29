@@ -23,9 +23,9 @@ repository               : "lnsidiou5/lnsidiou5.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Jason Li"
-  pronouns         : # example: "she/her"  
+  pronouns         : he/him 
   bio              : # "Jason Li is a first-year PhD student in Computing at the University of Utah, advised by Professor Bei Wang. His research focuses on explainable AI and topological data analysis, with an emphasis on developing methods that improve the interpretability and understanding of complex machine learning models"
   location         : "741 S 1350 W, Kaysville, UT"
   employer         : "University of Utah"
