@@ -13,10 +13,10 @@ title                    : "Jason Li"
 title_separator          : "-"
 name                     : &name "Jason Li"
 description              : &description "Jason Li's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://lnsidiou5.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lnsidiou5/lnsidiou5.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Jason Li"
   pronouns         : # example: "she/her"  
-  bio              : "Jason Li is a first-year PhD student in Computing at the University of Utah, advised by Professor Bei Wang. His research focuses on explainable AI and topological data analysis, with an emphasis on developing methods that improve the interpretability and understanding of complex machine learning models"
+  bio              : # "Jason Li is a first-year PhD student in Computing at the University of Utah, advised by Professor Bei Wang. His research focuses on explainable AI and topological data analysis, with an emphasis on developing methods that improve the interpretability and understanding of complex machine learning models"
   location         : "741 S 1350 W, Kaysville, UT"
   employer         : "University of Utah"
   uri              : # URL
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
