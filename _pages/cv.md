@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-View my CV [here](https://lnsidiou5.github.io/files/CV_JasonLi.pdf) 
+View or download my [curriculum vitae (PDF)](https://lnsidiou5.github.io/files/CV_JasonLi.pdf) 
+
+*Last updated: August 2026.*

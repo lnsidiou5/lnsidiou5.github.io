@@ -9,3 +9,5 @@ venue: "Interservice/Industry Training, Simulation and Education Conference (I/I
 paperurl: "/files/papers/multi-agent-board-game-strategy-through-simulation.pdf"
 citation: 'Andres Espinosa, Cody Flynn, Jason Li, Han Mach, Maximillian Banach, Cathy Quan, Jorg Peters, and Brian Stensrud. (2025). &quot;Multi-Agent Board Game Strategy Through Simulation.&quot; <i>Interservice/Industry Training, Simulation and Education Conference (I/ITSEC)</i>.'
 ---
+
+This paper was a result of my undergraduate capstone project sponsored by CAE, which was later published and won **Best Paper** at I/ITSEC 2025.
