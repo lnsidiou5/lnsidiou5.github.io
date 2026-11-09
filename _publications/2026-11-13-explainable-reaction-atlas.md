@@ -6,7 +6,7 @@ permalink: /publication/2026-11-13-explainable-reaction-atlas
 excerpt: "This paper presents a framework leveraging human-AI collaboration to help users analyze and interpret chemical reaction latent spaces"
 date: 2026-11-13
 venue: "IEEE Workshop on Topology meets Artificial Intelligence (TopoInVis Connect)"
-paperurl: "/files/explainable-reaction-atlas.pdf"
+paperurl: "/files/papers/explainable-reaction-atlas.pdf"
 citation: 'Jason Li, Rodrigo de la Nuez Moraleda, Dhruv Meduri, Kelin Zia, and Bei Wang. (2026). &quot;Explainable Reaction Atlas.&quot; <i>IEEE Workshop on Topology Meets Artificial Intelligence (TopoInVis Connect) at IEEE VIS</i>. Accepted.'
 ---
 
